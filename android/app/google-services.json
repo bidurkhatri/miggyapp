@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473195733929",
+    "project_id": "miggy-a0ac8",
+    "storage_bucket": "miggy-a0ac8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473195733929:android:eb685e35c99ac9e44d9ab8",
+        "android_client_info": {
+          "package_name": "com.mycompany.miggy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphaD4VwtCPJ2Rg-WG-gXS7droBYXvZkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
