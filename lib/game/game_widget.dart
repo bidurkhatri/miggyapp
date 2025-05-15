@@ -251,7 +251,7 @@ class _GameWidgetState extends State<GameWidget> {
                                       alignment: AlignmentDirectional(0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          'bcq3zsrd' /* Welcome to the Jackpot Game ro... */,
+                                          'bcq3zsrd' /* Welcome to the LowCard Room */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
@@ -335,7 +335,7 @@ class _GameWidgetState extends State<GameWidget> {
                                       alignment: AlignmentDirectional(0.0, 0.0),
                                       child: Text(
                                         FFLocalizations.of(context).getText(
-                                          '8jd1q3u4' /* You currently Joined this room */,
+                                          '8jd1q3u4' /* You currently joined this room */,
                                         ),
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium

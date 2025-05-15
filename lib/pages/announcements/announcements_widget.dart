@@ -134,7 +134,7 @@ class _AnnouncementsWidgetState extends State<AnnouncementsWidget> {
                                 children: [
                                   Text(
                                     FFLocalizations.of(context).getText(
-                                      'yzzkhzaz' /* Removal of inactive Admin zand... */,
+                                      'yzzkhzaz' /* Welcome to the Community */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
@@ -240,7 +240,7 @@ class _AnnouncementsWidgetState extends State<AnnouncementsWidget> {
                                 children: [
                                   Text(
                                     FFLocalizations.of(context).getText(
-                                      'k19m9vmr' /* New policy on inactive account... */,
+                                      'k19m9vmr' /* Everyone is welcome here */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
@@ -346,7 +346,7 @@ class _AnnouncementsWidgetState extends State<AnnouncementsWidget> {
                                 children: [
                                   Text(
                                     FFLocalizations.of(context).getText(
-                                      '153ihrsu' /* Removal of inactive Admin zand... */,
+                                      '153ihrsu' /* Does this ring the bell? */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
@@ -452,7 +452,7 @@ class _AnnouncementsWidgetState extends State<AnnouncementsWidget> {
                                 children: [
                                   Text(
                                     FFLocalizations.of(context).getText(
-                                      'skyckb4l' /* Removal of inactive Admin zand... */,
+                                      'skyckb4l' /* Game Game Game */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
@@ -558,7 +558,7 @@ class _AnnouncementsWidgetState extends State<AnnouncementsWidget> {
                                 children: [
                                   Text(
                                     FFLocalizations.of(context).getText(
-                                      '2csatc0f' /* Removal of inactive Admin zand... */,
+                                      '2csatc0f' /* Chat Chat Chat */,
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium

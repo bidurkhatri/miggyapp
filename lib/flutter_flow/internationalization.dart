@@ -1415,7 +1415,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     'yzzkhzaz': {
-      'en': 'Removal of inactive Admin zand CS',
+      'en': 'Welcome to the Community',
       'fr': '',
     },
     'd5jyqxe4': {
@@ -1428,7 +1428,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     'k19m9vmr': {
-      'en': 'New policy on inactive accounts',
+      'en': 'Everyone is welcome here',
       'fr': '',
     },
     'yjqblfp2': {
@@ -1441,7 +1441,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     '153ihrsu': {
-      'en': 'Removal of inactive Admin zand CS',
+      'en': 'Does this ring the bell?',
       'fr': '',
     },
     '0j6bff8h': {
@@ -1454,7 +1454,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     'skyckb4l': {
-      'en': 'Removal of inactive Admin zand CS',
+      'en': 'Game Game Game',
       'fr': '',
     },
     '69fhg6jq': {
@@ -1467,7 +1467,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     '2csatc0f': {
-      'en': 'Removal of inactive Admin zand CS',
+      'en': 'Chat Chat Chat',
       'fr': '',
     },
     '85owyklr': {
@@ -2172,7 +2172,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     'q3y1ufnu': {
-      'en': 'Live since 2020',
+      'en': 'Live since 2025',
       'fr': '',
     },
     'mknjg0kq': {
@@ -2184,7 +2184,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     'cipca8j7': {
-      'en': 'contact@miggy.co',
+      'en': 'contact@miggy.app',
       'fr': '',
     },
     'yhegjxny': {
@@ -2501,10 +2501,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Search...',
       'fr': '',
     },
-    'he3d7tte': {
-      'en': 'Nigeria',
-      'fr': '',
-    },
     'cjuvderc': {
       'en': 'United States',
       'fr': '',
@@ -2527,6 +2523,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'efggv2ts': {
       'en': 'Nepal',
+      'fr': '',
+    },
+    'jreyxnxs': {
+      'en': 'Australia',
+      'fr': '',
+    },
+    'ulef5mas': {
+      'en': 'New Zealand',
       'fr': '',
     },
     'wz7qp463': {
@@ -2773,7 +2777,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // Game
   {
     'bcq3zsrd': {
-      'en': 'Welcome to the Jackpot Game room',
+      'en': 'Welcome to the LowCard Room',
       'fr': '',
     },
     'f3rwqmbz': {
@@ -2781,7 +2785,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': '',
     },
     '8jd1q3u4': {
-      'en': 'You currently Joined this room',
+      'en': 'You currently joined this room',
       'fr': '',
     },
     'nxanl9bp': {
@@ -3070,7 +3074,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // messages
   {
     'okmf0nkt': {
-      'en': 'JB',
+      'en': 'LB',
       'fr': '',
     },
   },

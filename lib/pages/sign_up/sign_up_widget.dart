@@ -1027,9 +1027,6 @@ class _SignUpWidgetState extends State<SignUpWidget> {
                                       FormFieldController<String>(null),
                               options: [
                                 FFLocalizations.of(context).getText(
-                                  'he3d7tte' /* Nigeria */,
-                                ),
-                                FFLocalizations.of(context).getText(
                                   'cjuvderc' /* United States */,
                                 ),
                                 FFLocalizations.of(context).getText(
@@ -1046,6 +1043,12 @@ class _SignUpWidgetState extends State<SignUpWidget> {
                                 ),
                                 FFLocalizations.of(context).getText(
                                   'efggv2ts' /* Nepal */,
+                                ),
+                                FFLocalizations.of(context).getText(
+                                  'jreyxnxs' /* Australia */,
+                                ),
+                                FFLocalizations.of(context).getText(
+                                  'ulef5mas' /* New Zealand */,
                                 )
                               ],
                               onChanged: (val) => safeSetState(

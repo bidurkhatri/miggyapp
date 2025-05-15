@@ -155,7 +155,7 @@ class _HelpsupportWidgetState extends State<HelpsupportWidget> {
                     children: [
                       Text(
                         FFLocalizations.of(context).getText(
-                          'q3y1ufnu' /* Live since 2020 */,
+                          'q3y1ufnu' /* Live since 2025 */,
                         ),
                         textAlign: TextAlign.center,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
@@ -216,7 +216,7 @@ class _HelpsupportWidgetState extends State<HelpsupportWidget> {
                       ),
                       Text(
                         FFLocalizations.of(context).getText(
-                          'cipca8j7' /* contact@miggy.co */,
+                          'cipca8j7' /* contact@miggy.app */,
                         ),
                         textAlign: TextAlign.center,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(

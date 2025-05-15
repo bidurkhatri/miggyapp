@@ -442,7 +442,7 @@ class _GiftsStoreWidgetState extends State<GiftsStoreWidget> {
                                                       FormatType.decimal,
                                                   decimalType:
                                                       DecimalType.periodDecimal,
-                                                  currency: 'RC ',
+                                                  currency: '\$M ',
                                                 ),
                                                 style: FlutterFlowTheme.of(
                                                         context)
@@ -582,7 +582,7 @@ class _GiftsStoreWidgetState extends State<GiftsStoreWidget> {
                                                       FormatType.decimal,
                                                   decimalType:
                                                       DecimalType.periodDecimal,
-                                                  currency: 'RC ',
+                                                  currency: '\$M ',
                                                 ),
                                                 style: FlutterFlowTheme.of(
                                                         context)

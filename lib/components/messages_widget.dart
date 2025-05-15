@@ -425,7 +425,7 @@ class _MessagesWidgetState extends State<MessagesWidget> {
                           alignment: AlignmentDirectional(0.0, 0.0),
                           child: Text(
                             FFLocalizations.of(context).getText(
-                              'okmf0nkt' /* JB */,
+                              'okmf0nkt' /* LB */,
                             ),
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
@@ -499,7 +499,7 @@ class _MessagesWidgetState extends State<MessagesWidget> {
                                   Text(
                                     valueOrDefault<String>(
                                       widget.refMessages?.botName,
-                                      'Jackpot Bot',
+                                      'LowCard Bot',
                                     ),
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
